@@ -67,6 +67,10 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 
+.resume{
+
+  padding-top: 100px;
+}
 
 header {
   text-align: center;
@@ -435,6 +439,12 @@ fieldset[disabled] .btn-success.active {
   height: 50px;
   border-radius: 100%;
   line-height: 28px;
+}
+
+.image-portfolio{
+
+  width:100%;
+  height:100%;
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
