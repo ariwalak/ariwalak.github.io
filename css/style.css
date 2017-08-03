@@ -74,7 +74,7 @@ hr.star-primary:after {
 
 header {
   text-align: center;
-  background:black;
+  background:#333;
   color: white;
 }
 header .container {
@@ -110,7 +110,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #333;
+  background:black;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: none;
   font-weight: 500;
@@ -306,14 +306,14 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color:black;
 }
 footer .footer-col {
   margin-bottom: 50px;
 }
 footer .footer-below {
   padding: 25px 0;
-  background-color: #233140;
+  background-color:black;
 }
 .btn-outline {
   color: white;
