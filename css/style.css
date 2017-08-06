@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #f4a442;
 }
 h1,
 h2,
@@ -53,7 +53,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
+  background-color: #f4a442;
   color: white;
 }
 hr.star-primary {
@@ -134,7 +134,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #f4a442;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -142,13 +142,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #f4a442;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background:#f4a442;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -158,9 +158,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color:#f4a442;
   color: white;
-  border-color: #18BC9C;
+  border-color: #f4a442;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -187,7 +187,7 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 section.success {
   background: #333;
@@ -212,7 +212,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: rgba(24, 188, 156, 0.9);
+  background:#f4a442;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -327,7 +327,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #f4a442;
   background: white;
   border: solid 2px white;
 }
@@ -375,8 +375,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #f4a442;
+  border-color:#f4a442;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -385,8 +385,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #128f76;
-  border-color: #11866f;
+  background-color:#f4a442;
+  border-color: #f4a442;
 }
 .btn-success:active,
 .btn-success.active,
